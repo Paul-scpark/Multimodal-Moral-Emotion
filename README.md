@@ -14,3 +14,17 @@ Overview of the research framework. Multimodal YouTube data and human-labeled mo
 Predicted engagement by *other-condemning* emotion probability. Top panels show fitted counts from the negative binomial models, and bottom panels show relative engagement (IRR) for Korea and the United States. As moral outrage intensity increases, engagement progressively rises from views to comments. Shaded areas denote 95\% confidence intervals.
 
 ## Model
+- Korean
+  - [Other-condemning](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_other_condemning.pth)
+  - [Other-praising](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_other_praising.pth)
+  - [Other-suffering](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_other_suffering.pth)
+  - [Self-conscious](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_self_conscious.pth)
+  - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_non_moral_emotion.pth)
+  - [Neutral](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_neutral.pth)
+- English
+  - [Other-condemning](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_other_condemning.pth)
+  - [Other-praising](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_other_praising.pth)
+  - [Other-suffering](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_other_suffering.pth)
+  - [Self-conscious](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_self_conscious.pth)
+  - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_non_moral_emotion.pth)
+  - [Neutral](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_neutral.pth)
