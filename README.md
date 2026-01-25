@@ -1,6 +1,9 @@
 # Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US
 
-In Proceedings of the ACM Web Conference (WWW), 2026. To appear.
+In Proceedings of the ACM Web Conference (WWW), 2026. To appear. 
+
+<a href="https://doi.org/10.5281/zenodo.18368120"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18368120.svg" alt="DOI"></a>
+
 
 ## Abstract
 Understanding how media rhetoric shapes user engagement is crucial in the attention economy. This study examines how moral-emotional rhetoric used by mainstream news media channels on YouTube influences audience engagement, drawing on cross-cultural data from Korea and the United States. To capture the multimodal nature of YouTube, which combines thumbnail images and video titles, we develop a multimodal moral emotion classifier by fine-tuning a vision–language model. The model is trained on human-annotated multimodal datasets in both Korean and English and applied to approximately 400,000 videos from major news outlets in both countries. We analyze three engagement levels—views, likes, and comments—representing increasing degrees of commitment. The results show that *other-condemning* rhetoric—expressions of moral outrage that criticize others’ morality—consistently increases all three forms of engagement across cultures, with effect sizes strengthening from passive viewing to active commenting. These findings suggest that moral outrage is the most effective emotional strategy, attracting not only attention but also active participation. We discuss concerns about the potential misuse of *other-condemning* rhetoric as such practices can deepen polarization by reinforcing in-group/out-group divisions. To facilitate future research and ensure reproducibility, we publicly release our Korean and English multimodal moral emotion classification models.
