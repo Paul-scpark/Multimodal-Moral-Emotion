@@ -15,16 +15,18 @@ Predicted engagement by *other-condemning* emotion probability. Top panels show 
 
 ## Model
 - Korean
-  - [Other-condemning](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_other_condemning.pth)
-  - [Other-praising](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_other_praising.pth)
-  - [Other-suffering](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_other_suffering.pth)
-  - [Self-conscious](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_self_conscious.pth)
-  - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_non_moral_emotion.pth)
-  - [Neutral](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/korean/multimodal_moral_emotion_classifier_kor_neutral.pth)
+  - [Other-condemning](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_KOR_Other_Condemning)
+  - [Other-praising](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_KOR_Other_Praising)
+  - [Other-suffering](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_KOR_Other_Suffering)
+  - [Self-conscious](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_KOR_Self_Conscious)
+  - [Neutral](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_KOR_Neutral)
+  - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_KOR_Non_Moral_Emotion)
 - English
-  - [Other-condemning](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_other_condemning.pth)
-  - [Other-praising](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_other_praising.pth)
-  - [Other-suffering](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_other_suffering.pth)
-  - [Self-conscious](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_self_conscious.pth)
-  - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_non_moral_emotion.pth)
-  - [Neutral](https://huggingface.co/kimyeonz/Multimodal-Moral-Emotion-Classifier/blob/main/english/multimodal_moral_emotion_classifier_eng_neutral.pth)
+  - [Other-condemning](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Other_Condemning)
+  - [Other-praising](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Other_Praising)
+  - [Other-suffering](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Other_Suffering)
+  - [Self-conscious](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Self_Conscious)
+  - [Neutral](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Neutral)
+  - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Non_Moral_Emotion)
+ 
+## Citation
