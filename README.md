@@ -33,3 +33,11 @@ Predicted engagement by *other-condemning* emotion probability. Top panels show 
   - [Non-moral emotion](https://huggingface.co/kimyeonz/Multimodal_Moral_Emotion_Classifier_ENG_Non_Moral_Emotion)
  
 ## Citation
+```
+@article{park2026moral,
+  title={Moral {O}utrage {S}hapes {C}ommitments {B}eyond {A}ttention: {M}ultimodal {M}oral {E}motions on {Y}ou{T}ube in {K}orea and the {US}},
+  author={Park, Seongchan and Kim, Jaehong and Kim, Hyeonseung and Bin, Heejin and Moon, Sue and Lee, Wonjae},
+  journal={arXiv preprint arXiv:2601.21815},
+  year={2026}
+}
+```
