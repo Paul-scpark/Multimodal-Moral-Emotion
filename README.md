@@ -1,6 +1,6 @@
 # Moral Outrage Shapes Commitments Beyond Attention: Multimodal Moral Emotions on YouTube in Korea and the US
 
-In Proceedings of the ACM Web Conference (WWW), 2026. To appear. 
+In Proceedings of the ACM Web Conference (WWW), 2026.
 
 <a href="https://doi.org/10.5281/zenodo.18368120"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18368120.svg" alt="DOI"></a>
 
