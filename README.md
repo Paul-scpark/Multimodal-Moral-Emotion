@@ -34,10 +34,11 @@ Predicted engagement by *other-condemning* emotion probability. Top panels show 
  
 ## Citation
 ```
-@article{park2026moral,
+@inproceedings{park2026moral,
   title={Moral {O}utrage {S}hapes {C}ommitments {B}eyond {A}ttention: {M}ultimodal {M}oral {E}motions on {Y}ou{T}ube in {K}orea and the {US}},
   author={Park, Seongchan and Kim, Jaehong and Kim, Hyeonseung and Bin, Heejin and Moon, Sue and Lee, Wonjae},
-  journal={arXiv preprint arXiv:2601.21815},
+  booktitle={Proceedings of the ACM Web Conference 2026},
+  pages={7657--7668},
   year={2026}
 }
 ```
